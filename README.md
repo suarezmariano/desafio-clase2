@@ -1,3 +1,3 @@
-# desafioclase2:  Clases
+# desafioClase2:  Clases
 
 Para el curso de Backend de Coderhouse Argentina.
